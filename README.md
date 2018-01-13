@@ -1,8 +1,8 @@
-# Pragmatic Programer Notes
+# Pragmatic Programmer Notes
 
 
 ## Table of contents
-* [Chapter 1 -  The cat ate my source code](#chapter1)
+* [Chapter 1 - The cat ate my source code](#chapter1)
 
 
 <a name="chapter1">
