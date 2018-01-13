@@ -6,7 +6,7 @@
 
 
 <a name="chapter1">
-## A Pragmatic Philosophy
+<h1> A Pragmatic Philosophy </h1>
 </a>
 
 ### The cat ate my source code
