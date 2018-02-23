@@ -46,7 +46,13 @@ Critical thinking
 
 ## Communicate
 - Know what you want to say.
-- Know your audience (Wisdom image).
+- Know your audience (Wisdom).
+  - **W**hat do you want them to learn?
+  - What is ther **i**nterest in what you've got to say?
+  - How **s**ophisticated are they?
+  - How much **d**etail do they want?
+  - Whom do you want to **o**wn the information?
+  - How can you **m**otivate them to listen to you?
 - Choose your moment (is this a good time to talk about ...).
 - Choose a style.
 - Make it look good.
