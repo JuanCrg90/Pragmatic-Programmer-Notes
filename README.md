@@ -3,6 +3,7 @@
 
 ## Table of contents
 * [Chapter 1 - A Pragmatic Philosophy](#chapter1)
+* [Chapter 2 - A Pragmatic approach](#chapter2)
 
 
 <a name="chapter1">
@@ -60,3 +61,37 @@ Critical thinking
 - Be a listener.
 - Get back to people (It's Both What You Say and the Way That You Say It).
 
+<a name="chapter2">
+<h1> A Pragmatic Approach </h1>
+</a>
+
+## The evils of duplication
+- Every piece of knowledge must have a single, unambiguous, authoritative representation within a system.
+- DRY: Don't repeat yourself
+
+## How does duplication arise?
+- Imposed duplication.
+- Inadverted duplication.
+- Impatiend duplication.
+- Interdeveloper duplication.
+
+## Orthogonality
+- In computing, the term  has come to signifify a kind of independence or decoupling.
+- The helicopter controls are not orthogonal.
+- The orthogonality elimiate effects between unrelated things.
+
+## Reversibility
+- There are not final decisions.
+
+## Tracer Bullets
+- Use tracer bullets to find the target.
+
+## Prototypes ans Post-it Notes
+- Prototype to learn.
+
+## Domain Languages
+- Program close to the problem domain.
+
+## Estimating
+- Estimate to avoid surprises.
+- Iterate the schedule with the code.
