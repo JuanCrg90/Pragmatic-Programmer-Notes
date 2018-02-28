@@ -4,6 +4,7 @@
 ## Table of contents
 * [Chapter 1 - A Pragmatic Philosophy](#chapter1)
 * [Chapter 2 - A Pragmatic approach](#chapter2)
+* [Chapter 3 - The Basic Tools](#chapter3)
 
 
 <a name="chapter1">
@@ -95,3 +96,24 @@ Critical thinking
 ## Estimating
 - Estimate to avoid surprises.
 - Iterate the schedule with the code.
+
+
+<a name="chapter3">
+<h1> The Basic Tools </h1>
+</a>
+
+> Tools amplify your talent, The better your tools, and the better you know how to use them, the more productive you can be.
+
+## The Power of Plain Text
+
+- Keep Knowledge in Plain Text.
+
+## Shell Games
+
+- Use the power of Command Shells
+
+As a pragmatic programmer, you will constantly want to perform ad hoc operarions-things that the GUI may not support. The command line is better suited when you want to quickly conbine a couple of commands to perform a query oos some other task. 
+
+## Power Editing
+- Use a Single Editor Well (vim FTW)
+> The editor will be an extension of your hand.
