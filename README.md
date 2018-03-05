@@ -117,3 +117,25 @@ As a pragmatic programmer, you will constantly want to perform ad hoc operarions
 ## Power Editing
 - Use a Single Editor Well (vim FTW)
 > The editor will be an extension of your hand.
+
+## Source Control
+- A good source code control system helps to track changes, answering questions like: 
+  - who made changes in this line of code?
+  - What's the difference between the current version and last weekes?
+  - How many lines of code did we change in this release?
+  - Which files get changed most often?
+  
+## Debugging
+
+  - Fix the problem, Not the blame.
+  - Adopt the right mindset. Turn off the defenses that you use each day to protect your ego and **Don't panic**.
+  - Before start to look at the bug, make sure you are working on code that compiled cleanly-without warnings.
+  - Use the phrase **"Select isn't broken"** as a gentle reminder whenever you or your peers start to blame the system for a fault that is likely to be your own.
+  - Remember is you see hoof prints, think horses-not zebras. The OS is probably not broken. And the database is probably fine.
+  - **Don't Asume It-Prove It**
+
+## Text Manipulation
+  - Learn a Text Manipulation Language.
+
+## Code Generators
+  - Write Code that Writes Code.
