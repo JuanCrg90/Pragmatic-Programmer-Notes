@@ -5,6 +5,7 @@
 * [Chapter 1 - A Pragmatic Philosophy](#chapter1)
 * [Chapter 2 - A Pragmatic approach](#chapter2)
 * [Chapter 3 - The Basic Tools](#chapter3)
+* [Chapter 4 - Pragmatic Paranoia](#chapter4)
 
 
 <a name="chapter1">
@@ -139,3 +140,25 @@ As a pragmatic programmer, you will constantly want to perform ad hoc operarions
 
 ## Code Generators
   - Write Code that Writes Code.
+
+
+<a name="chapter4">
+<h1> Pragmatic Paranoia </h1>
+</a>
+
+  - You Can't Write Perfect Software
+
+## Design By Contract
+ - If all the routine's preconditions are met by the caller, the routine shall guarantee that all postconditions and invariants will be true when it completes.
+
+## Dead Programs Tell no lies
+  - Crash early.
+   
+## Asertive Programming
+  - If It Can't happen, Use Assertions to Ensure That It Wont't.
+  - Turning off assertions when you deliver a program to production is like crossing a high wire without a net because you once made it accross in practice.
+## When to use exceptions
+  - Use Exceptions for exceptional problems.
+
+## How to balance resources
+  - Finish What you start (memory, transactions, threads, files, timers)
