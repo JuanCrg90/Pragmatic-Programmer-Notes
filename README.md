@@ -6,6 +6,7 @@
 * [Chapter 2 - A Pragmatic approach](#chapter2)
 * [Chapter 3 - The Basic Tools](#chapter3)
 * [Chapter 4 - Pragmatic Paranoia](#chapter4)
+* [Chapter 5 - Bend or Break](#chapter5)
 
 
 <a name="chapter1">
@@ -154,7 +155,7 @@ As a pragmatic programmer, you will constantly want to perform ad hoc operarions
 ## Dead Programs Tell no lies
   - Crash early.
    
-## Asertive Programming
+## Assertive Programming
   - If It Can't happen, Use Assertions to Ensure That It Wont't.
   - Turning off assertions when you deliver a program to production is like crossing a high wire without a net because you once made it accross in practice.
 ## When to use exceptions
@@ -162,3 +163,30 @@ As a pragmatic programmer, you will constantly want to perform ad hoc operarions
 
 ## How to balance resources
   - Finish What you start (memory, transactions, threads, files, timers)
+
+<a name="chapter5">
+<h1> Bend or Break </h1>
+</a>
+
+## Decoupling and the law of Demeter
+  - Minimize coupling between modules.
+  - Using the Law of Demeter Will make your code more adaptable and robust but at a cost: as a "general contractor" your module must delegate and manage any and all subcontractors directly, without involving clients of your module.
+
+## Metaprogramming
+  - Configure, Don't Integrate.
+  - Put Abstractions in Code Details in Metadata.
+  - Without metadata, your code is not as adaptable or flexible as it could be. Is this a bad thing? Well, out here in the real world, species that don't adapt die.
+
+## Temporal Coupling
+  - Analize Workflow to Improve Concurrency.
+  - Design Using Services.
+  - Always Design for Concurrency.
+
+## It's Just a View
+  - Separate Views from Models.
+  - Model. The abstract data model representing the target object. The model has no direct knowledge of any views or controllers.
+  - View. A way to interpret the model. It subscribes to changes in the model and logical events from the controller.
+  - Controller. A way to control the view and provide the model with new data. It publishes events to both the model and the view.
+
+## Blackboards
+  - Use Blackboards to coordinate workflow.
