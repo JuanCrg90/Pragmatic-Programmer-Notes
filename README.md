@@ -7,6 +7,7 @@
 * [Chapter 3 - The Basic Tools](#chapter3)
 * [Chapter 4 - Pragmatic Paranoia](#chapter4)
 * [Chapter 5 - Bend or Break](#chapter5)
+* [Chapter 6 - While You Are Coding](#chapter6)
 
 
 <a name="chapter1">
@@ -190,3 +191,42 @@ As a pragmatic programmer, you will constantly want to perform ad hoc operarions
 
 ## Blackboards
   - Use Blackboards to coordinate workflow.
+
+
+<a name="chapter6">
+<h1> While You Are Coding </h1>
+</a>
+
+## Programming By Coincidence
+  - Don't Program by Coincidence.
+  - Always be aware of what you are doing.
+  - Don't code blindfolded. Attempting to build an application you don't fully understand, or to use a technology you aren't familiar with, is an invitation to be misled by coincidences.
+  - Proceed from a plan, whether that plan is in your head, on the back of a cocktail napkin, or on a wall-sized printout from a CASE tool.
+  - Rely only on reliable things. Don't depend on accidents or assumptions. If you can't tell the difference in particular circumstances, assume the worst.
+  - Document your assumptions. Design by Contract, can help clarify your assumptions in your own mind, as well as help communicate them to others.
+  - Don't just test your code, but test your assumptions as well.
+  - Prioritize your effort. Spend time on the important aspects; more than likely, these are the hard parts. If you don't have fundamentals or infrastructure correct, brilliant bells and whistles will be irrelevant.
+  - Don't be a slave to history. Don't let existing code dictate future code. All code can be replaced if it is no longer appropriate.
+  
+## Algorithm Speed
+  - Estimate the Order of Your Algorithms.
+  - Test Your Estimates.
+
+## Refactoring
+  - Rewriting, reworking, and re-architecting code is collectively known as refactoring.
+  - When Should You Refactor?
+    - Duplication.
+    - Nonorthogonal design.
+    - Outdated knowledge.
+    - Performance. 
+  - Refactor Early, Refactor Often.
+  - Don't try to refactor and add functionality at the same time.
+  - Make sure you have good tests before you begin refactoring. Run the tests as often as possible. That way you will know quickly if your changes have broken anything.
+  - Take short, deliberate steps: move a field from one class to another, fuse two similar methods into a superclass. Refactoring often involves making many localized changes that result in a larger-scale change. If you keep your steps small, and test after each step, you will avoid prolonged debugging.
+
+## Code That's Easy to Test
+  - Design to Test.
+  - All software you write will be tested—if not by you and your team, then by the eventual users—so you might as well plan on testing it thoroughly.
+
+## Evil Wizards
+  - Don't Use Wizard Code You Don't Understand.
