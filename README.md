@@ -8,6 +8,7 @@
 * [Chapter 4 - Pragmatic Paranoia](#chapter4)
 * [Chapter 5 - Bend or Break](#chapter5)
 * [Chapter 6 - While You Are Coding](#chapter6)
+* [Chapter 7 - Before The Project](#chapter7)
 
 
 <a name="chapter1">
@@ -230,3 +231,18 @@ As a pragmatic programmer, you will constantly want to perform ad hoc operarions
 
 ## Evil Wizards
   - Don't Use Wizard Code You Don't Understand.
+
+
+<a name="chapter7">
+<h1> Before the Project</h1>
+</a>
+
+- Don't Gather Requeriments - Dig for Them.
+- Work with a User to Think Like a User.
+- Abstractions Live Longer than Details.
+- Use a Project Glossary.
+- Don't Think outside the Box - Find the Box.
+- Listen to Nagging Doubts - Start When You're Ready.
+- Some Things are Better Done than Described.
+- Don't Be a Slave to Formal Methods.
+- Expensive Too Do Not Produce Better Designs.
