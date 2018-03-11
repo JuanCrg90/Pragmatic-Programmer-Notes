@@ -9,6 +9,7 @@
 * [Chapter 5 - Bend or Break](#chapter5)
 * [Chapter 6 - While You Are Coding](#chapter6)
 * [Chapter 7 - Before The Project](#chapter7)
+* [Chapter 8 - Pragmatic Projects](#chapter8)
 
 
 <a name="chapter1">
@@ -246,3 +247,20 @@ As a pragmatic programmer, you will constantly want to perform ad hoc operarions
 - Some Things are Better Done than Described.
 - Don't Be a Slave to Formal Methods.
 - Expensive Too Do Not Produce Better Designs.
+
+
+<a name="chapter8">
+<h1> Pragmatic Projects</h1>
+</a>
+
+- Organize Around Functionality, Not Job Functions.
+- Don't Use Manual Procedures.
+- Test Early, Test Often, Test Automatically.
+- Coding Ain't Done 'Til All the Test Run.
+- Use Saboteurs to Test Your Testing.
+- Test State Coverage, Not Code Coverage.
+- Find Bugs Once.
+- Treat English as Just Another Programming Language.
+- Build Documentation In, Don't Bolt It On.
+- Gently Exeed Your Users Expectations.
+- Sign Your Work.
